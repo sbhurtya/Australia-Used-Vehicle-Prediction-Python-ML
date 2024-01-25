@@ -12,8 +12,8 @@ This project aims to develop machine learning model capable of predicting price 
 - **Feature Importance**: Extracting valuable insights regarding importance of each features.
 
 ## Example Screenshots
+![alt text](Screenshots/Distribution.png)
 
-![alt text](Plots/image.png)
+![alt text](Screenshots/FI.png)
 
-![alt text](Plots/FI.png)
 
